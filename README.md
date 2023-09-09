@@ -6,8 +6,8 @@ Proyecto realizado para completar el challenge Hotel Alura.
 
 # TECNOLOGIAS USADAS
 
-Eclipse IDE
-MySQL Workbench
+- Eclipse IDE
+- MySQL Workbench
 
 # ARCHIVOS JAR NECESARIOS
 
